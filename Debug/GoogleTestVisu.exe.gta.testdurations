@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Shems\source\repos\ProjetJIN4\Debug\GoogleTestVisu.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="toto.tata" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
