@@ -3,7 +3,10 @@
 #include <string.h>
 #include <cstdlib>
 #include <iostream>
-class Donnees 
+#include "Obj.h"
+
+class Donnees :
+	public Obj
 {
 public:
 	Donnees();
@@ -22,6 +25,5 @@ public:
 	std::string donnee;
 	int positionX;
 	int positionY;
-	int calcul;
 };
 
