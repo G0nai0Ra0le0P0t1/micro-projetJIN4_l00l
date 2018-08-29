@@ -3,5 +3,11 @@
   <Executable>C:\Users\Shems\source\repos\ProjetJIN4\Debug\GoogleTestVisu.exe</Executable>
   <TestDurations>
     <TestDuration Test="toto.tata" Duration="1" />
+    <TestDuration Test="TestReadXML.TestChar1" Duration="1" />
+    <TestDuration Test="TestReadXML.TestChar2" Duration="1" />
+    <TestDuration Test="TestReadXML.TestChar3" Duration="1" />
+    <TestDuration Test="TestReadXML.TestChar4" Duration="1" />
+    <TestDuration Test="TestReadXML.TestVect1" Duration="1" />
+    <TestDuration Test="TestReadXML.Donnees1" Duration="1" />
   </TestDurations>
 </GtaTestDurations>

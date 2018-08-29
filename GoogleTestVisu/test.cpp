@@ -3,7 +3,7 @@
 #include "pugixml.hpp"
 #include "../MaBibliotheque/ProjetJIN4.cpp"
 
-
+/*
 TEST(toto, tata) {
 	ASSERT_FALSE(false);
 }
@@ -107,4 +107,4 @@ TEST(TestReadXML, Donnees1) {
 	ASSERT_EQ(verif(test1, test2), 0);
 	ASSERT_EQ(verif(test1, test3), 0);
 	ASSERT_EQ(verif(test1, test4), 1);
-}
+}*/
