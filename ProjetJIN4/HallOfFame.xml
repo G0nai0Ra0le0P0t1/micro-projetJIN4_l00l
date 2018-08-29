@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
-<Score />
-<Score />
-<Score />
+<MyRoot>
+	<Score score1="1" score2="0" score3="0" />
+</MyRoot>
